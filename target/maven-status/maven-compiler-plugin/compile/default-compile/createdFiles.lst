@@ -1,0 +1,13 @@
+com/game/legacyoftheforce/dto/CharacterDTO.class
+com/game/legacyoftheforce/entity/CharacterEntity_.class
+com/game/legacyoftheforce/entity/CharacterEntity.class
+com/game/legacyoftheforce/controller/CharacterController.class
+com/game/legacyoftheforce/entity/repository/RaceRepository.class
+com/game/legacyoftheforce/LegacyOfTheForceApplication.class
+com/game/legacyoftheforce/service/CharacterServiceImpl.class
+com/game/legacyoftheforce/dto/mapper/CharacterMapper.class
+com/game/legacyoftheforce/entity/repository/CharacterRepository.class
+com/game/legacyoftheforce/dto/mapper/CharacterMapperImpl.class
+com/game/legacyoftheforce/entity/RaceEntity.class
+com/game/legacyoftheforce/entity/RaceEntity_.class
+com/game/legacyoftheforce/service/CharacterService.class

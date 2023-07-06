@@ -1,0 +1,10 @@
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/entity/repository/CharacterRepository.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/entity/RaceEntity.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/dto/CharacterDTO.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/dto/mapper/CharacterMapper.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/service/CharacterServiceImpl.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/LegacyOfTheForceApplication.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/service/CharacterService.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/entity/CharacterEntity.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/controller/CharacterController.java
+/Users/jakub/Downloads/LegacyOfTheForce/src/main/java/com/game/legacyoftheforce/entity/repository/RaceRepository.java
